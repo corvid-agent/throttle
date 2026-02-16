@@ -1,5 +1,9 @@
 # @corvid-agent/throttle
 
+[![CI](https://github.com/corvid-agent/throttle/actions/workflows/ci.yml/badge.svg)](https://github.com/corvid-agent/throttle/actions/workflows/ci.yml)
+[![npm](https://img.shields.io/npm/v/@corvid-agent/throttle)](https://www.npmjs.com/package/@corvid-agent/throttle)
+![zero deps](https://img.shields.io/badge/dependencies-0-brightgreen)
+
 Rate limiter, throttle, and debounce utilities. Zero dependencies. TypeScript-first.
 
 ## Install
